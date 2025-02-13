@@ -18,7 +18,7 @@
     <description>Demo project for Spring Boot</description>
 
     <properties>
-        <java.version>23</java.version>  <!-- Java 17 es la versión estable para Spring Boot 3 -->
+        <java.version>23</java.version>  
     </properties>
 
     <dependencies>
